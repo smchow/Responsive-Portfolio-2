@@ -1,0 +1,21 @@
+img {
+	width: 200px;
+	
+}
+
+
+.main,.side {
+	float: left;
+	padding: 20px;
+    margin: 60px;
+}
+.main{
+	width: 60%;//700px;
+	background-color: #ffffff;
+	margin:40px;
+}
+.side{
+	width:370px;
+	background-color: #ffffff;
+	margin:40px;
+}
