@@ -1,18 +1,25 @@
+
+body{
+	font: black;
+}
 img {
-	width: 200px;
+	width: 250px;
+	height: 250px;
 	
 }
 
 
-.main,.side {
-	float: left;
-	padding: 20px;
-    margin: 60px;
+.img-nyt{
+	margin-bottom: 30px;
 }
+/* .main,.side {
+	float: left;
+    margin: 60px;
+} */
 .main{
 	width: 60%;//700px;
 	background-color: #ffffff;
-	margin:40px;
+	//margin:40px;
 }
 .side{
 	width:370px;
